@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/InnerAuraReadingsApp/static/css/main.63fcaf53.chunk.css",
+    "main.js": "/InnerAuraReadingsApp/static/js/main.ff920a7c.chunk.js",
+    "main.js.map": "/InnerAuraReadingsApp/static/js/main.ff920a7c.chunk.js.map",
+    "runtime-main.js": "/InnerAuraReadingsApp/static/js/runtime-main.fd5204ad.js",
+    "runtime-main.js.map": "/InnerAuraReadingsApp/static/js/runtime-main.fd5204ad.js.map",
+    "static/css/2.433de08d.chunk.css": "/InnerAuraReadingsApp/static/css/2.433de08d.chunk.css",
+    "static/js/2.31ab584e.chunk.js": "/InnerAuraReadingsApp/static/js/2.31ab584e.chunk.js",
+    "static/js/2.31ab584e.chunk.js.map": "/InnerAuraReadingsApp/static/js/2.31ab584e.chunk.js.map",
+    "index.html": "/InnerAuraReadingsApp/index.html",
+    "static/css/2.433de08d.chunk.css.map": "/InnerAuraReadingsApp/static/css/2.433de08d.chunk.css.map",
+    "static/css/main.63fcaf53.chunk.css.map": "/InnerAuraReadingsApp/static/css/main.63fcaf53.chunk.css.map",
+    "static/js/2.31ab584e.chunk.js.LICENSE.txt": "/InnerAuraReadingsApp/static/js/2.31ab584e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd5204ad.js",
+    "static/css/2.433de08d.chunk.css",
+    "static/js/2.31ab584e.chunk.js",
+    "static/css/main.63fcaf53.chunk.css",
+    "static/js/main.ff920a7c.chunk.js"
+  ]
+}
