@@ -36,10 +36,18 @@ function S(){
                 <h7> I have been developing my clairvoyance since I discovered I had a gift </h7>
                 <h7> as a teen. I started out mostly just guiding my friends and family with the </h7>
                 <h7> insights I gained from visions that I was having about them. </h7>
+            </div>
+
+            <div className="carousel-item">
+                <h3 className="slideH3">Experience</h3>
+                <br/>
+                <br/>
                 <h7> My journey has now evolved into doing over 1500 readings all across the country & world. <i
                         className="fas fa-globe-americas"></i></h7>
-                {/* <img className="d-block w-100" src="..." alt=""> */}
             </div>
+                
+
+
             <div className="carousel-item">
                 <h3 className="slideH3">My Services</h3>
                 <br/>
@@ -61,6 +69,21 @@ function S(){
     </div>
 </div>
  {/* </ScrollAnimation> */}
+
+
+        <div className="button1">
+            <a class="c-social-links__link"
+                href="https://jamespesenti.github.io/InnerAuraReadings/chakras.html">
+                <btn btn btn-primary></btn>
+            </a>
+        </div>
+        <div className="button11">
+            <a class="c-social-links__link"
+                href="https://jamespesenti.github.io/InnerAuraReadings/chakras.html">
+                <btn btn btn-primary></btn>
+            </a>
+        </div>
+
 </div>
 
 
