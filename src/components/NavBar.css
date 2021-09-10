@@ -35,7 +35,8 @@
 
     h6 {
       font-family: 'Julius Sans One', sans-serif;
-      color: rgb(255, 255, 255) ;
+      /* color: rgb(255, 255, 255) ; */
+      color: rgb(58, 58, 58);
     }
 
     .navbar {
