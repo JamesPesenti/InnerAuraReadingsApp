@@ -22,10 +22,9 @@ function C(){
         <div data-aos="zoom-in">
         {/* <ScrollAnimation animateIn="fade"> */}
         <div className="button2">
-            <a class="c-social-links__link">
-                 {/* href="https://jamespesenti.github.io/InnerAuraReadings/chakras.html" */}
+            {/* <a class="c-social-links__link">
                 <btn btn btn-primary></btn>
-            </a>
+            </a> */}
         </div>
         <section id="Chakra">
             <h2 style={{color: "white"}}>Chakra Intro</h2>
@@ -55,6 +54,12 @@ function C(){
                 <btn btn btn-primary></btn>
             </a>
         </div>
+        <div className="button11">
+            <a class="c-social-links__link"
+                href="https://jamespesenti.github.io/InnerAuraReadings/chakras.html">
+                <btn btn btn-primary></btn>
+            </a>
+        </div>
         <div className="button2">
             <a class="c-social-links__link"
                 href="https://jamespesenti.github.io/InnerAuraReadings/chakras.html">
@@ -67,9 +72,26 @@ function C(){
                 <btn btn btn-primary></btn>
             </a>
         </div>
+        <div className="button4">
+            <a class="c-social-links__link"
+                href="https://jamespesenti.github.io/InnerAuraReadings/chakras.html">
+                <btn btn btn-primary></btn>
+            </a>
+        </div>
+        <div className="button5">
+            <a class="c-social-links__link"
+                href="https://jamespesenti.github.io/InnerAuraReadings/chakras.html">
+                <btn btn btn-primary></btn>
+            </a>
+        </div>
         </section>
-        <iframe width="400" height="315" src="https://www.youtube.com/embed/StrbppmsZJw?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
+        {/* <iframe width="200" height="315" src="https://www.youtube.com/embed/StrbppmsZJw?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> */}
+  
+  <div>
+  <iframe className="video" width="200" height="315" src="https://www.youtube.com/embed/StrbppmsZJw?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+  
+  </div>
 
 
     )
