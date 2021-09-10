@@ -1,6 +1,9 @@
 
  
  
+
+ 
+ 
 #prices {
     width: 100%;
     background-color: aliceblue;
@@ -12,7 +15,7 @@
 
 
 .card {
-    margin: 50px;
+    margin: 100px 5px;
     box-shadow: 0 9px 8px rgba(0,0,0,0.30), 0 5px 2px rgba(0,0,0,0.22)
   }
 
@@ -70,7 +73,7 @@
   }
 
   .text-muted {
-    font-size: 24px;
+    font-size: 22px;
     font-weight: 600;
   }
 
@@ -87,6 +90,18 @@
     font-weight: 600;
     color: #01b0f8;
   }
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
