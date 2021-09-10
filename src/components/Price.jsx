@@ -13,9 +13,8 @@ return (
 <h2 className="section-heading">Let me guide you to the life you deserve</h2>
 <br/>
 <div className="shadow p-3 mb-5 bg-body rounded"></div>
-<div className="row">
 
-    <div className="col-xs-12 col-lg-4">
+    <div className="col-xs-12 col-lg-2">
         <div className="card">
             <div className="card-header">
                 <h3 className="card-header">Text Me A Free Question! </h3>
@@ -31,7 +30,7 @@ return (
             </div>
         </div>
     </div>
-</div>
+
 
 <div className="col-xs-12 col-lg-4">
     <div className="card">
