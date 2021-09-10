@@ -41,7 +41,7 @@ function ChakraC(){
         <div className="panel" data-color="white">
         </div>
 
-        <div className="panel" data-color="red" data-aos="fade-left">
+        <div data-aos="fade-in" data-color="red" className="panel">
             <i className="fas fa-balance-scale"></i>
             <h1 className="underline">ROOT</h1>
             <p>
@@ -56,7 +56,7 @@ function ChakraC(){
             </p>
         </div>
         <div>
-        <div  data-aos="fade-right" className="panel" data-color="orange">
+        <div className="panel" data-color="orange" >
             <i className="far fa-sun"></i>
             <h1 className="underline">SACRAL</h1>
             <p>
@@ -72,7 +72,7 @@ function ChakraC(){
             </div>
         </div>
         <div>
-        <div data-aos="fade-left" className="panel" data-color="yellow">
+        <div className="panel" data-color="yellow">
             <i className="fas fa-align-center"></i>
             <h1 className="underline">SOLAR PLEXUS</h1>
             <p>
@@ -88,7 +88,7 @@ function ChakraC(){
             </div>
         </div>
         <div>
-        <div data-aos="fade-right" className="panel" data-color="green">
+        <div className="panel" data-color="green">
             <i className="far fa-heart"></i>
             <h1 className="underline">HEART</h1>
             <p>
@@ -106,7 +106,7 @@ function ChakraC(){
             </div>
         </div>
         <div>
-        <div data-aos="fade-left" className="panel" data-color="blue">
+        <div  className="panel" data-color="blue">
             <i className="far fa-comments"></i>
             <h1 className="underline">THROAT</h1>
             <p>
@@ -125,7 +125,7 @@ function ChakraC(){
             </div>
         </div>
         <div>
-        <div data-aos="fade-right" className="panel" data-color="indigo">
+        <div  className="panel" data-color="indigo">
             <i className="fas fa-eye"></i>
             <h1 className="underline">THIRD EYE</h1>
             <p>
@@ -141,7 +141,7 @@ function ChakraC(){
             </div>
         </div>
         <div>
-        <div data-aos="fade-left" className="panel" data-color="violet">
+        <div  className="panel" data-color="violet">
 
             <i className="fas fa-crown"></i>
      
