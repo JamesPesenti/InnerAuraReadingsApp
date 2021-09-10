@@ -49,8 +49,6 @@
     }
   }
 
-
-  
   .inner {
     /* !!!!! This caused the white space bug!!!!! */
     /* position: static; */
@@ -60,6 +58,8 @@
     /* left: 160px; */
     opacity: 1;
   }
+  
+  
   
   .inner-header {
     color:white;
