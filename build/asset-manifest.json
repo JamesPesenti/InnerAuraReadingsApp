@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/www.inneraurareadings.com/static/css/main.c33454ec.chunk.css",
+    "main.js": "/www.inneraurareadings.com/static/js/main.ca482324.chunk.js",
+    "main.js.map": "/www.inneraurareadings.com/static/js/main.ca482324.chunk.js.map",
+    "runtime-main.js": "/www.inneraurareadings.com/static/js/runtime-main.70e93e21.js",
+    "runtime-main.js.map": "/www.inneraurareadings.com/static/js/runtime-main.70e93e21.js.map",
+    "static/css/2.433de08d.chunk.css": "/www.inneraurareadings.com/static/css/2.433de08d.chunk.css",
+    "static/js/2.31ab584e.chunk.js": "/www.inneraurareadings.com/static/js/2.31ab584e.chunk.js",
+    "static/js/2.31ab584e.chunk.js.map": "/www.inneraurareadings.com/static/js/2.31ab584e.chunk.js.map",
+    "index.html": "/www.inneraurareadings.com/index.html",
+    "static/css/2.433de08d.chunk.css.map": "/www.inneraurareadings.com/static/css/2.433de08d.chunk.css.map",
+    "static/css/main.c33454ec.chunk.css.map": "/www.inneraurareadings.com/static/css/main.c33454ec.chunk.css.map",
+    "static/js/2.31ab584e.chunk.js.LICENSE.txt": "/www.inneraurareadings.com/static/js/2.31ab584e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70e93e21.js",
+    "static/css/2.433de08d.chunk.css",
+    "static/js/2.31ab584e.chunk.js",
+    "static/css/main.c33454ec.chunk.css",
+    "static/js/main.ca482324.chunk.js"
+  ]
+}
