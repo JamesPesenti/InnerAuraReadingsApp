@@ -1,2 +1,0 @@
-# InnerAuraReadingsApp
-Built using REACT
