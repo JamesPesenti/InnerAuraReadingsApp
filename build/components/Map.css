@@ -1,28 +1,27 @@
-#map {
+ #map {
     overflow-x: hidden;
     margin-top: 0px;
-    padding: 40px;
+    padding: 50px;
     fill: white;
     background: rgb(229, 240, 250);
-  }
-
-  .text-muted {
-    font-family: 'Raleway', sans-serif;
-    font-size: 30px;
-    font-weight: 600;
   }
   
   #us-map {
     display: block;
     position: relative;
     top: 0;
-    right: 120px;
-    width: 480px;
+    left: 0;
+    width: 100%;
     height: 100%;
     cursor: pointer;
-   
   }
-  
+
+.text-muted {
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+  }
+
   path:hover,
   circle:hover {
     stroke: #227da7 !important;
