@@ -5,6 +5,9 @@ function AboutMe(){
     return (
         <div>
         
+        <div className="event">
+            <h2>Special Event!</h2>
+        </div>
         
         <div data-aos="zoom-in">
         <img className="pop-up" src="pictures\pop-up.jpg" alt=""/>
