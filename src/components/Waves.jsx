@@ -11,7 +11,7 @@ function Gradient(){
         <div className="inner-header flex">
             <h1 className="inner-header flex"><strong>Inner Aura Readings</strong></h1>
         </div>
-            <img className="inner" src="pictures/inner.png" alt=""/>
+            <img className="inner" src="pictures/IMG_7790_2.jpg" alt=""/>
 
       <div>
         <svg className="waves" xmlns="http://www.w3.org/2000/svg" viewBox="0 24 150 28" preserveAspectRatio="none" shapeRendering="auto">
