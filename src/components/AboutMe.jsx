@@ -6,7 +6,7 @@ function AboutMe(){
         <div>
         
         <div className="event">
-            <h2>Special Event!</h2>
+            <h1>Special Event!</h1>
         </div>
         
         <div data-aos="zoom-in">
