@@ -40,10 +40,10 @@
 
 .event {
   font-family: 'Julius Sans One', sans-serif;
-  font-weight: 350;
+  font-size: 300px;
+  font-weight: 650;
   margin: 50px 50px;
-  padding: 50px 50px;
-  color: black; 
+  padding: 50px 50px; 
 }
 
 .pop-up {
