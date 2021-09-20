@@ -45,5 +45,6 @@
    margin-bottom: -1%;
    /* left: 160px; */
    opacity: 1;
+   transition-duration: 225ms;
 }
  
