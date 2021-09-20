@@ -6,7 +6,7 @@ function AboutMe(){
         <div>
         
         <div className="event">
-            <h1>Special Event!</h1>
+           <h1 style={{color: "#bbe4e9"}}>Special Event!</h1>
         </div>
         
         <div data-aos="zoom-in">
