@@ -4,6 +4,13 @@ import About from "./AboutMe.css";
 function AboutMe(){
     return (
         <div>
+        
+// Pop up//
+        <div data-aos="zoom-in">
+        <img className="pop-up" src="pictures\IMG_7790_2.jpg" alt=""/>
+        </div>
+        
+        
         <div className="About">
             <span>
                 <h2 style={{color:"white"}}>Welcome Dear Traveler!</h2>
