@@ -39,6 +39,8 @@
 }
 
 .event {
+  font-family: 'Julius Sans One', sans-serif;
+  font-weight: 350;
   margin: 50px 50px;
   padding: 50px 50px;
   color: #bbe4e9; 
