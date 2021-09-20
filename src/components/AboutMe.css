@@ -38,6 +38,12 @@
   font-family: 'Julius Sans One', sans-serif;
 }
 
+.event {
+  margin: 50px 50px;
+  padding: 50px 50px;
+  color: #bbe4e9; 
+}
+
 .pop-up {
 /*    width: 360px; */
    width: 100%;
