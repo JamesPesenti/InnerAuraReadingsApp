@@ -39,7 +39,8 @@
 }
 
 .pop-up {
-   width: 360px;
+/*    width: 360px; */
+   width: 100%;
    height: 80%;
    margin-top: 100px;
    margin-bottom: -1%;
