@@ -6,7 +6,7 @@ function AboutMe(){
         <div>
         
         
-        <div>
+        <div data-aos="zoom-in">
         <img className="pop-up" src="pictures\pop-up.jpg" alt=""/>
         </div>
         
