@@ -5,7 +5,7 @@ function AboutMe(){
     return (
         <div>
         
-// Pop up//
+        
         <div>
         <img className="pop-up" src="pictures\IMG_7790_2.jpg" alt=""/>
         </div>
