@@ -10,7 +10,7 @@
     color: #5026b0;
     width: 100%; 
     position: relative;
-    margin: 400px auto;
+    margin: 500px auto;
     padding-top: 100px;
     border-radius: 65px;
     height: 800px;
@@ -37,4 +37,12 @@
 .message {
   font-family: 'Julius Sans One', sans-serif;
 }
-  
+
+.pop-up {
+   width: 160px;
+   margin-top: -17%;
+   margin-bottom: -1%;
+   /* left: 160px; */
+   opacity: 1;
+}
+ 
