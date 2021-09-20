@@ -7,7 +7,7 @@ function AboutMe(){
         
         
         <div>
-        <img className="pop-up" src="pictures\IMG_7790_2.jpg" alt=""/>
+        <img className="pop-up" src="pictures\pop-up.jpg" alt=""/>
         </div>
         
         
