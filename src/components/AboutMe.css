@@ -45,6 +45,7 @@
 .event {
   font-family: 'Julius Sans One', sans-serif;
   text-decoration: underline #79c2d0;
+  text-underline-position: under;
 /*   color: #79c2d0;  */
   color: #53a8b6; 
   font-size: 60px;
