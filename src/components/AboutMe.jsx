@@ -5,7 +5,7 @@ function AboutMe(){
     return (
         <div>
         
-        <div className="event">
+        <div data-aos="zoom-in" className="event">
         <span>Special Event!</span>
         </div>
         
