@@ -5,15 +5,6 @@ function AboutMe(){
     return (
         <div>
         
-//         <div data-aos="zoom-in" className="event">
-//         <span>Special Event!</span>
-//         </div>
-        
-//         <div data-aos="zoom-in">
-//         <img className="pop-up" src="pictures\pop-up.jpg" alt=""/>
-//         </div>
-        
-        
         <div className="About">
             <span>
                 <h2 style={{color:"white"}}>Welcome Dear Traveler!</h2>
