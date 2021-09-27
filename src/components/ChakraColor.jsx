@@ -39,7 +39,10 @@ function ChakraC(){
         <div>
 
         <div className="panel" data-color="white">
-        <span className="color-change1">Chakras</span>
+        </div>
+        
+        <div>
+            <span className="color-change1">Chakras</span>
         </div>
 
         <div data-aos="fade-in" data-color="red" className="panel">
