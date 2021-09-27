@@ -5,13 +5,13 @@ function AboutMe(){
     return (
         <div>
         
-        <div data-aos="zoom-in" className="event">
-        <span>Special Event!</span>
-        </div>
+//         <div data-aos="zoom-in" className="event">
+//         <span>Special Event!</span>
+//         </div>
         
-        <div data-aos="zoom-in">
-        <img className="pop-up" src="pictures\pop-up.jpg" alt=""/>
-        </div>
+//         <div data-aos="zoom-in">
+//         <img className="pop-up" src="pictures\pop-up.jpg" alt=""/>
+//         </div>
         
         
         <div className="About">
@@ -24,7 +24,7 @@ function AboutMe(){
             <br/>
             <h7>life has brought you to me to assist you on your journey.</h7>
             <br/>
-            <h7>I've spent the last 8 years using my abilities </h7>
+            <h7> I've spent the last 8 years using my abilities </h7>
             <h7> to help guide people to lead better, more fulfilled lives. </h7>
             <h7> I will be using this website as a resource for all of you to learn </h7>
             <h7> and spread good energy throughout the world. My goal is to eventually </h7>
