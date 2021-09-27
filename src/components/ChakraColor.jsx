@@ -39,6 +39,7 @@ function ChakraC(){
         <div>
 
         <div className="panel" data-color="white">
+        <h4 className="color-change">Below I will give you a short introduction to Chakras </h4>
         </div>
 
         <div data-aos="fade-in" data-color="red" className="panel">
