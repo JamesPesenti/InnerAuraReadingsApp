@@ -1,6 +1,10 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Julius+Sans+One&family=Raleway:wght@100&display=swap');
 
 .color-change {
+    font-family: "julius Sans One", sans-serif;
+    font-size: 15px;
+    font-weight: 500;
     margin: 100px;
     color: #5026b0;
 }
