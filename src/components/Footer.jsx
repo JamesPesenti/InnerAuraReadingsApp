@@ -38,7 +38,7 @@ function F(){
                 </div>
                 <div className="copyright">
                 <span id="year"> </span>
-                <h7><span id="year">© 2021 Inner Aura Readings | Chicago, IL</span></h7>
+                <h7><span id="year">© 2022 Inner Aura Readings | Chicago, IL</span></h7>
                 </div>
                 <br/>
                 {/* <h7 className="copyright">© 2021 Inner Aura Readings | Chicago, IL</h7> */}
