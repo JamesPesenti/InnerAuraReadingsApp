@@ -5,6 +5,18 @@ import Waves from "./Waves.css";
 
 function Gradient(){
     return (
+        
+        
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-2NXC72KZ5X"></script>
+        <script>
+             window.dataLayer = window.dataLayer || [];
+             function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-2NXC72KZ5X');
+        </script>
+        
+       
      
         <div className="gradient">
 
