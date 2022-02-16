@@ -39,6 +39,7 @@ function F(){
                 
                 <div className="copyright">
                     <span id="year">
+                         <h7><span id="year">© 2022 Inner Aura Readings | Chicago, IL</span></h7> 
                         <script>document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear()))</script>
                     </span>
 
