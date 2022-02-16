@@ -36,12 +36,18 @@ function F(){
                                 target="_blank"><i className="fas fa-envelope-square"></i></a>
                     </div>
                 </div>
+                
+                <div className="copyright">
+                    <span id="year">
+                        <script>document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear()))</script>
+                    </span>
+
+
                 <div className="copyright">
                 <span id="year"> </span>
                 <h7><span id="year">© 2022 Inner Aura Readings | Chicago, IL</span></h7>
                 </div>
                 <br/>
-                {/* <h7 className="copyright">© 2021 Inner Aura Readings | Chicago, IL</h7> */}
                 <br/>
                 <br/>
                 <h7>Website Created By James Pesenti <i className="fab fa-ethereum"></i></h7> <i
