@@ -10,13 +10,13 @@ $("year").innerHTML = date;
 
 
 function F(){
+    const footerYear = new Date().getFullYear()
     return (
 
 
     <div>
 
         <section id="footer">
-        {/* <div className="row"> */}
                 <div className="container-fluid" id="social">
                     <div className="follow">
                         <h7>Follow Me!</h7>
@@ -39,13 +39,13 @@ function F(){
                 
                 <div className="copyright">
                     <span id="year">
-                         <h7><span id="year">© 2022 Inner Aura Readings | Chicago, IL</span></h7> 
+                         <h7><span id="year"> &copy; 2022 Inner Aura Readings | Chicago, IL</span></h7> 
                         <script>document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear()))</script>
                     </span>
 
 
                 <div className="copyright">
-                <span id="year"> <h7><span id="year">© 2022 Inner Aura Readings | Chicago, IL</span></h7> </span>
+                <span id="year"> <h7><span id="year"> © {footerYear} Inner Aura Readings | Chicago, IL</span></h7> </span>
 
                 <h7><span id="year">© 2022 Inner Aura Readings | Chicago, IL</span></h7>
                 </div>
