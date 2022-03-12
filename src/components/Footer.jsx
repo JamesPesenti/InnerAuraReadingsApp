@@ -3,9 +3,9 @@ import Footer from "./Footer.css";
 import $ from "jquery";
 
 
-var date = new Date().getFullYear();
+// var date = new Date().getFullYear();
 
-$("year").innerHTML = date;
+// $("year").innerHTML = date;
 
 
 
