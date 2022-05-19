@@ -11,6 +11,6 @@ Demo Start
 
 ![169298442-c2c0a49e-ad19-4c2a-ba67-92ea1fb3df6b](https://user-images.githubusercontent.com/74566532/169301293-e1f956c5-9a71-4553-a4b6-62c6ef8077b7.gif)
 
-Navbar
+Nav
 
 ![169292344-165fc123-bd9c-4073-a3ed-8273adae6543](https://user-images.githubusercontent.com/74566532/169294477-4bb95b69-e430-486c-b3fb-f31fc3c59b00.gif)
